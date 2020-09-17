@@ -9,9 +9,9 @@ I love God and my family. 👶👨👩👦
 I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
 <p align="center">
-  <a href="https://github.com/adelarsq/github-readme-stats">  
-    <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&hide=stars&theme=dracula&show_icons=true"/>
-  </a>
+    <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&hide=stars&theme=vue&show_icons=true"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&hide=html,css)
+<p align="center">
+    <img alt="adelarsq's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&theme=vue"/>
+</p>
