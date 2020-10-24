@@ -2,7 +2,7 @@
 
 I’m a software enginner living on Cascavel, Brazil. 🌎
 
-I work with mainly all things related with software (since assembly until frontend). 🧩
+I work with many things related with software development. 🧩
 
 I love God and my family. 👶👨👩👦
 
