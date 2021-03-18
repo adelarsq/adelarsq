@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adelar da Silva Queiróz</h1>
 
-I’m a software enginner living on Cascavel, Brazil. 🌎
+I’m a software enginner living on Realeza, Brazil. 🌎
 
 I work with many things related with software development. 🧩
 
