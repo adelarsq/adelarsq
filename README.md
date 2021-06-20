@@ -2,11 +2,11 @@
 
 I’m a software enginner living on Realeza, Brazil. 🌎
 
-I also have worked with theoretical physics for some time.
+I love God and my family. 👶🏻👨🏻👩🏻👦🏻🐶
 
 I work with many things related with software development. 🧩
 
-I love God and my family. 👶🏻👨🏻👩🏻👦🏻🐶
+I also have worked with theoretical physics for some time. 🪐
 
 I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
