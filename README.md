@@ -2,7 +2,7 @@
 
 I’m a software enginner living on Realeza, Brazil. 🌎
 
-I love God and my family. 👶🏻👨🏻👩🏻👦🏻🐶🐇
+I love God and my family. 👶🏻👨🏻👩🏻👦🏻🐇
 
 I work with many things related with software development. 🧩
 
