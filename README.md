@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adelar da Silva Queiróz</h1>
 
-I’m a software enginner living on Atibaia, Brazil. 🌎
+I’m a software engineer living on Atibaia, Brazil. 🌎
 
 I love God and my family. 👶🏻👨🏻👩🏻👦🏻
 
