@@ -14,10 +14,8 @@ I’m core maintainer from the [Viro Framework](https://virocommunity.github.io)
 
 <p align="center">
     <a href="https://wakatime.com/@f246bf72-3e4d-408c-a080-de85212a5158"><img src="https://wakatime.com/badge/user/f246bf72-3e4d-408c-a080-de85212a5158.svg" alt="Total time coded since Dec 23 2017" /></a>
-</p>
-
-<p align="center">
-    <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&theme=vue&show_icons=true"/>
+    <a href="https://profile.codersrank.io/user/adelarsq"><img src="https://img.shields.io/badge/-codersrank-0077b5?style=round-square&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/adelarsq/" alt="Coders Rank" />
+    </a>
 </p>
 
 <p align="center">
