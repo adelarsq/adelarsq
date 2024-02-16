@@ -10,8 +10,6 @@ I also work with theoretical physics on my free time. 🪐
 
 I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
-I’m core maintainer from the [Viro Framework](https://virocommunity.github.io), an open source developer platform for rapidly building AR/VR applications using React Native.
-
 <p align="center">
     <a href="https://wakatime.com/@f246bf72-3e4d-408c-a080-de85212a5158"><img src="https://wakatime.com/badge/user/f246bf72-3e4d-408c-a080-de85212a5158.svg" alt="Total time coded since Dec 23 2017" /></a>
     <a href="https://profile.codersrank.io/user/adelarsq"><img src="https://img.shields.io/badge/-codersrank-0077b5?style=round-square&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/adelarsq/" alt="Coders Rank" />
