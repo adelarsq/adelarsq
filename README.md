@@ -6,7 +6,7 @@ I love God and my family. 👶🏻👨🏻🤱🏻👦🏻
 
 I work with many things related with software development. 🧩
 
-I also work with theoretical physics on my free time. 🪐
+I also study theoretical physics on my free time. 🪐
 
 I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
